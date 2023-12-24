@@ -1,0 +1,32 @@
+pip3 install Django
+pip3 install djangorestframework
+
+pip3 freeze
+
+django-admin startproject testdev
+
+1.Yöntem
+sudo apt install python3.10-venv
+python -m venv env(Windows)
+python3 -m venv env(Linux)
+
+2.Yöntem
+pip3 install virtualenv
+virtualenv env
+
+
+.\env\Scripts\activate(Windows)
+source env/bin/activate(Linux)
+deactivate
+
+
+python3 manage.py runserver
+
+python3 manage.py startapp api
+
+python3 manage.py createsuperuser
+
+pip3 install django-cors-headers
+
+
+https://medium.com/django-tr/django-kurulumu-proje-uygulama-olu%C5%9Fturma-210ed301dea6

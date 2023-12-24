@@ -1,0 +1,8 @@
+sudo -u postgres psql
+
+CREATE USER dev WITH PASSWORD 'qseawd';
+
+CREATE DATABASE devdb;
+GRANT ALL PRIVILEGES ON DATABASE devdb TO dev;
+
+\q

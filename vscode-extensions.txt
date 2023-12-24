@@ -1,0 +1,17 @@
+Auto Rename Tag
+Beautify css/sass/scss/less
+Better Comments
+bloc
+Django
+Dracula Official
+Error Lens
+HTML Boilerplate
+markdownlint
+Material Icon Theme
+Material Theme Icons
+Material Theme
+Path Intellisense
+Prettier - Code formatter
+Prettify JSON
+Python
+SQLite Viewer
